@@ -2,7 +2,7 @@
 * Python 3.6.3
 * Chromedriver.exe
 * Chrome 浏览器安装好后需将chromedriver.exe放置于Chrome浏览器目录下
-* pip install selenium requests lxml
+* `pip install selenium requests lxml`
 
 ### 参数设置
 
@@ -20,11 +20,11 @@
 * `target_url`: https://detail.damai.cn/item.htm?id=607865020360 目标，例如：[周杰伦2023嘉年华世界巡回演唱会--海口站](https://detail.damai.cn/item.htm?id=607865020360)
 
 
-* 部分门票需要选择城市，只需选择相应城市后将其网址复制到config.json文件的target_url参数。
+* 部分门票需要选择城市，只需选择相应城市后将其网址复制到config.json文件的`target_url`参数。
 
-* 根据需要选择的场次和票价分别修改config.json文件中的sess和price参数。
+* 根据需要选择的场次和票价分别修改config.json文件中的`sess`和`price`参数。
 
-* 查看购票须知中实名制一栏，若无需实名制则config.json文件中的real_name参数不需要填写（即为[]）；若每笔订单只需一个证件号则real_name参数只需选择一个；若每张门票需要一个证件号，则real_name参数根据需购票数量进行相应添加。
+* 查看购票须知中实名制一栏，若无需实名制则config.json文件中的`real_name`参数不需要填写（即为[]）；若每笔订单只需一个证件号则`real_name`参数只需选择一个；若每张门票需要一个证件号，则real_name参数根据需购票数量进行相应添加。
 
 
 * 若是首次登录，根据终端输出的提示，依次点击登录、扫码登录，代码将自动保存cookie文件（cookie.pkl）
