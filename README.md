@@ -1,3 +1,9 @@
+
+### 更新
+
+<div align="center">
+   <img src="https://github.com/kemomi/daimai/blob/main/O1CN01QtSzD62GdSE1msrJp_!!2251059038.jpg" alt="logo"></br>
+
 ### 提前准备
 * Python 3.6.3
 * Chromedriver.exe
@@ -39,7 +45,6 @@
 
 
 
-### 更新
 
 
 
