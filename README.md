@@ -3,6 +3,8 @@
 
 <div align="center">
    <img src="https://github.com/kemomi/daimai/blob/main/O1CN01QtSzD62GdSE1msrJp_!!2251059038.jpg" alt="logo"></br>
+</div>
+   
 
 ### 提前准备
 * Python 3.6.3
