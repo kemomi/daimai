@@ -48,10 +48,8 @@
 
 
 
-
-
-
 ### 热门演唱会信息
-
-* [周杰伦演唱会-海口](https://detail.damai.cn/item.htm?id=607865020360)
 * [周杰伦演唱会-天津](https://detail.damai.cn/item.htm?spm=a2oeg.search_category.searchtxt.ditem_0.f4294d15c5tGAZ&id=611160757855)
+* [周杰伦演唱会-海口](https://detail.damai.cn/item.htm?id=607865020360)
+* [周杰伦演唱会-呼和浩特](https://detail.damai.cn/item.htm?id=704967827554)
+* [周杰伦演唱会-太原](https://detail.damai.cn/item.htm?id=704762591363)
